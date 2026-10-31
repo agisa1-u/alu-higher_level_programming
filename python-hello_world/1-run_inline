@@ -1,0 +1,3 @@
+#!/bin/bash
+# Runs the Python code stored in PYCODE
+python3 -c "$PYCODE"

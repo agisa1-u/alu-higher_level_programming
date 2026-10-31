@@ -1,0 +1,3 @@
+#!/bin/bash
+# Runs the Python file whose name is stored in PYFILE
+python3 "$PYFILE"
