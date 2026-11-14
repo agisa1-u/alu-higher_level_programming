@@ -10,4 +10,4 @@ Python exercises on objects, identity, mutability and how arguments are passed t
 | `19-copy_list.py` | `copy_list(l)`: returns a (shallow) copy of a list, in 3 lines |
 | `20-answer.txt` - `28-answer.txt` | Answers about tuples and whether `id` changes (`+` vs `+=` on lists) |
 
-Each answer file holds a single answer on one line. Answers were checked by running the code as a Python script, where identical constants in the same file are shared (so `"Best School" is "Best School"` and `(1, 2) is (1, 2)` are `True`).
+Each answer file holds a single answer on one line. Answers were checked by running the code, and compared with what the course review expects. Note: `"Best School" is "Best School"` (task 9) is `True` and `(1, 2) is (1, 2)` (task 25) is `False`.
