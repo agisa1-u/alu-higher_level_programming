@@ -17,3 +17,10 @@ Reading and writing files, JSON serialization and a technical interview exercise
 | `10-student.py` | `Student` with `to_json(attrs=None)` (attribute filter) |
 | `11-student.py` | `Student` with `to_json()` and `reload_from_json()` |
 | `12-pascal_triangle.py` | `pascal_triangle(n)`: Pascal's triangle as a list of lists |
+
+### Advanced tasks
+
+| File | Description |
+| --- | --- |
+| `100-append_after.py` | `append_after(filename="", search_string="", new_string="")`: insert a text after each line containing a string |
+| `101-stats.py` | Script that reads log lines from stdin and prints the total file size and status code counts every 10 lines and on CTRL + C |
