@@ -15,3 +15,12 @@ All files are written for Python 3, start with `#!/usr/bin/python3`, are PEP8 (p
 | `4-square.py` | Adds a `size` property with getter and validating setter |
 | `5-square.py` | Adds `my_print()` to print the square with `#` |
 | `6-square.py` | Adds a validated `position` property used by `my_print()` |
+
+### Advanced tasks
+
+| File | Description |
+| --- | --- |
+| `100-singly_linked_list.py` | Classes `Node` and `SinglyLinkedList` with `sorted_insert()` and a printable list |
+| `101-square.py` | `Square` whose instance prints like `my_print()` |
+| `102-square.py` | `Square` with float/int size, comparable (`==`, `!=`, `<`, `<=`, `>`, `>=`) by area |
+| `103-magic_class.py` | `MagicClass` (circle) rewritten from Python bytecode |
